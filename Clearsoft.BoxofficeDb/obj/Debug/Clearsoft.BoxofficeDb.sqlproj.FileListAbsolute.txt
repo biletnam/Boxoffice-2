@@ -1,0 +1,9 @@
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxofficeDb\bin\Debug\Clearsoft.BoxofficeDb.dacpac
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxofficeDb\bin\Debug\Clearsoft.BoxofficeDb.dll
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxofficeDb\bin\Debug\Clearsoft.BoxofficeDb.pdb
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxofficeDb\obj\Debug\Clearsoft.BoxofficeDb.dll
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxofficeDb\obj\Debug\Clearsoft.BoxofficeDb.pdb
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxofficeDb\obj\Debug\Model.xml
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxofficeDb\obj\Debug\refactor.xml
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxofficeDb\obj\Debug\postdeploy.sql
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxofficeDb\obj\Debug\predeploy.sql

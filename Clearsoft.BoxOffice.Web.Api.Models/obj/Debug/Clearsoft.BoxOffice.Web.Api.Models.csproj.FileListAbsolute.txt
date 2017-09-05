@@ -1,0 +1,11 @@
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.BoxOffice.Web.Api.Models\bin\Debug\Clearsoft.BoxOffice.Web.Api.Models.dll
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.BoxOffice.Web.Api.Models\bin\Debug\Clearsoft.BoxOffice.Web.Api.Models.pdb
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.BoxOffice.Web.Api.Models\obj\Debug\Clearsoft.BoxOffice.Web.Api.Models.csprojResolveAssemblyReference.cache
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.BoxOffice.Web.Api.Models\obj\Debug\Clearsoft.BoxOffice.Web.Api.Models.dll
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.BoxOffice.Web.Api.Models\obj\Debug\Clearsoft.BoxOffice.Web.Api.Models.pdb
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Web.Api.Models\bin\Debug\Clearsoft.BoxOffice.Web.Api.Models.dll
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Web.Api.Models\bin\Debug\Clearsoft.BoxOffice.Web.Api.Models.pdb
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Web.Api.Models\obj\Debug\Clearsoft.BoxOffice.Web.Api.Models.csprojResolveAssemblyReference.cache
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Web.Api.Models\obj\Debug\Clearsoft.BoxOffice.Web.Api.Models.dll
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Web.Api.Models\obj\Debug\Clearsoft.BoxOffice.Web.Api.Models.pdb
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Web.Api.Models\obj\Debug\Clearsoft.BoxOffice.Web.Api.Models.csproj.CoreCompileInputs.cache

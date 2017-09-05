@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clearsoft.BoxOffice.Common", "Clearsoft.Boxoffice.Common\Clearsoft.BoxOffice.Common.csproj", "{7F6C75A0-5B75-44CC-B48D-02958A46CAFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clearsoft.BoxOffice.Data", "Clearsoft.BoxOffice.Data\Clearsoft.BoxOffice.Data.csproj", "{448C19F2-E57E-4EFD-8BE7-E85AE30ED4A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clearsoft.BoxOffice.Data.SqlServer", "Clearsoft.BoxOffice.Data.SqlServer\Clearsoft.BoxOffice.Data.SqlServer.csproj", "{88E7CBBD-9D0B-46EB-9885-4F76E4F8F85E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clearsoft.BoxOffice.Web.Api.Models", "Clearsoft.BoxOffice.Web.Api.Models\Clearsoft.BoxOffice.Web.Api.Models.csproj", "{382A2933-EEC6-491D-935A-4F014589C7F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clearsoft.BoxOffice.Web.Common", "Clearsoft.BoxOffice.Web.Common\Clearsoft.BoxOffice.Web.Common.csproj", "{E423A3E8-7A50-4E70-87F4-F4E7B002909C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clearsoft.BoxOffice.Web.Api", "Clearsoft.BoxOffice.Web.Api\Clearsoft.BoxOffice.Web.Api.csproj", "{089CD351-B498-4AB0-A8F9-E39C38DE9BBB}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Clearsoft.BoxofficeDb", "Clearsoft.BoxofficeDb\Clearsoft.BoxOfficeDb.sqlproj", "{D34514D8-5C0F-4B0B-B0FF-0CBC701DD0BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F6C75A0-5B75-44CC-B48D-02958A46CAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6C75A0-5B75-44CC-B48D-02958A46CAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6C75A0-5B75-44CC-B48D-02958A46CAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6C75A0-5B75-44CC-B48D-02958A46CAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448C19F2-E57E-4EFD-8BE7-E85AE30ED4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448C19F2-E57E-4EFD-8BE7-E85AE30ED4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448C19F2-E57E-4EFD-8BE7-E85AE30ED4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448C19F2-E57E-4EFD-8BE7-E85AE30ED4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E7CBBD-9D0B-46EB-9885-4F76E4F8F85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E7CBBD-9D0B-46EB-9885-4F76E4F8F85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E7CBBD-9D0B-46EB-9885-4F76E4F8F85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E7CBBD-9D0B-46EB-9885-4F76E4F8F85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382A2933-EEC6-491D-935A-4F014589C7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382A2933-EEC6-491D-935A-4F014589C7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382A2933-EEC6-491D-935A-4F014589C7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382A2933-EEC6-491D-935A-4F014589C7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E423A3E8-7A50-4E70-87F4-F4E7B002909C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E423A3E8-7A50-4E70-87F4-F4E7B002909C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E423A3E8-7A50-4E70-87F4-F4E7B002909C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E423A3E8-7A50-4E70-87F4-F4E7B002909C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089CD351-B498-4AB0-A8F9-E39C38DE9BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089CD351-B498-4AB0-A8F9-E39C38DE9BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089CD351-B498-4AB0-A8F9-E39C38DE9BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089CD351-B498-4AB0-A8F9-E39C38DE9BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34514D8-5C0F-4B0B-B0FF-0CBC701DD0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34514D8-5C0F-4B0B-B0FF-0CBC701DD0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34514D8-5C0F-4B0B-B0FF-0CBC701DD0BD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D34514D8-5C0F-4B0B-B0FF-0CBC701DD0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34514D8-5C0F-4B0B-B0FF-0CBC701DD0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34514D8-5C0F-4B0B-B0FF-0CBC701DD0BD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

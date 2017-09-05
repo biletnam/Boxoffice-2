@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Event] (Table)
+       [dbo].[EventPerformance] (Table)
+       [dbo].[EventPerformance].[ix_EventPerformance_PerformanceId] (Index)
+       [dbo].[Performance] (Table)
+       [dbo].[Status] (Table)
+       [dbo].[User] (Table)
+       Foreign Key: unnamed constraint on [dbo].[Event] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Event] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[EventPerformance] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[EventPerformance] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Performance] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Performance] (Foreign Key)
+
+** Supporting actions

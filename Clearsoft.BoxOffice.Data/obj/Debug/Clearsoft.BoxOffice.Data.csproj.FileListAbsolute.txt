@@ -1,0 +1,11 @@
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.BoxOffice.Data\bin\Debug\Clearsoft.BoxOffice.Data.dll
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.BoxOffice.Data\bin\Debug\Clearsoft.BoxOffice.Data.pdb
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.BoxOffice.Data\obj\Debug\Clearsoft.BoxOffice.Data.csprojResolveAssemblyReference.cache
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.BoxOffice.Data\obj\Debug\Clearsoft.BoxOffice.Data.dll
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.BoxOffice.Data\obj\Debug\Clearsoft.BoxOffice.Data.pdb
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Data\bin\Debug\Clearsoft.BoxOffice.Data.dll
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Data\bin\Debug\Clearsoft.BoxOffice.Data.pdb
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Data\obj\Debug\Clearsoft.BoxOffice.Data.csprojResolveAssemblyReference.cache
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Data\obj\Debug\Clearsoft.BoxOffice.Data.dll
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Data\obj\Debug\Clearsoft.BoxOffice.Data.pdb
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.BoxOffice.Data\obj\Debug\Clearsoft.BoxOffice.Data.csproj.CoreCompileInputs.cache

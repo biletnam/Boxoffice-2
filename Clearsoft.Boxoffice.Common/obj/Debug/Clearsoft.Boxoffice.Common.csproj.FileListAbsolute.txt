@@ -1,0 +1,17 @@
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.Boxoffice.Common\bin\Debug\Clearsoft.Boxoffice.Common.dll
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.Boxoffice.Common\bin\Debug\Clearsoft.Boxoffice.Common.pdb
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.Boxoffice.Common\obj\Debug\Clearsoft.Boxoffice.Common.csprojResolveAssemblyReference.cache
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.Boxoffice.Common\obj\Debug\Clearsoft.Boxoffice.Common.dll
+d:\users\nick\documents\visual studio 2017\Projects\Clearsoft.BoxOffice.Web.Api\Clearsoft.Boxoffice.Common\obj\Debug\Clearsoft.Boxoffice.Common.pdb
+D:\Users\Nick\Documents\Visual Studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\bin\Debug\Clearsoft.Boxoffice.Common.dll
+D:\Users\Nick\Documents\Visual Studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\bin\Debug\Clearsoft.Boxoffice.Common.pdb
+D:\Users\Nick\Documents\Visual Studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\bin\Debug\AutoMapper.dll
+D:\Users\Nick\Documents\Visual Studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\bin\Debug\log4net.dll
+D:\Users\Nick\Documents\Visual Studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\bin\Debug\AutoMapper.xml
+D:\Users\Nick\Documents\Visual Studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\bin\Debug\log4net.xml
+D:\Users\Nick\Documents\Visual Studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\obj\Debug\Clearsoft.Boxoffice.Common.csprojResolveAssemblyReference.cache
+D:\Users\Nick\Documents\Visual Studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\obj\Debug\Clearsoft.Boxoffice.Common.dll
+D:\Users\Nick\Documents\Visual Studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\obj\Debug\Clearsoft.Boxoffice.Common.pdb
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\bin\Debug\Clearsoft.BoxOffice.Web.Api.Models.dll
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\bin\Debug\Clearsoft.BoxOffice.Web.Api.Models.pdb
+D:\Users\Nick\Documents\visual studio 2017\Projects\Clearsoft.BoxOffice\Clearsoft.Boxoffice.Common\obj\Debug\Clearsoft.BoxOffice.Common.csproj.CoreCompileInputs.cache
